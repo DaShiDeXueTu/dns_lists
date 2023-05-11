@@ -3,8 +3,6 @@
 # Project home page:
 # https://github.com/Peng-Meng/dns_allowlists
 #
-#斐讯：
-||hoisin.coocaatv.com^
 
 #小米：
 ||ad.xiaomi.com^
