@@ -5,3 +5,5 @@
 @@||*.jd.com^
 @@||*.telegram.org^
 @@||*.alicdn.com^
+@@||*.synology.cn^
+@@||*.synology.com^
