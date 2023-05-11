@@ -1,7 +1,7 @@
 # AdAway blocklist
 #
 # Project home page:
-# https://github.com/Peng-Meng/dns_allowlists
+# https://github.com/DaShiDeXueTu/dns_allowlists
 #
 
 #小米：
