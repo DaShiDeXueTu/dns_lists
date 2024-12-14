@@ -7,3 +7,12 @@
 @@||*.alicdn.com^
 @@||*.synology.cn^
 @@||*.synology.com^
+!企业微信泛域名
+@@||*.work.weixin.qq.com
+@@||*.weixin.qq.com
+@@||*.wxwork.qq.com
+@@||*.rtxapp.com
+@@||*.wework.ftn.qq.com
+@@||*.meeting.work.weixin.qq.com
+@@||*.exmail.qq.com
+
