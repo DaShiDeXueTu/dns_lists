@@ -15,4 +15,8 @@
 @@||*.wework.ftn.qq.com^
 @@||*.meeting.work.weixin.qq.com^
 @@||*.exmail.qq.com^
-
+@@||*.ad.xiaomi.com^ 
+@@||*.ad.mi.com^
+@@||*.tracking.mi.com^ 
+@@||*.sdkconfig.ad.xiaomi.com^ 
+@@||*.api.ad.xiaomi.com^
