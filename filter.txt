@@ -23,3 +23,6 @@
 ||o2o.api.xiaomi.com^
 ||bss.pandora.xiaomi.com^
 ||gvod.aiseejapp.atianqi.com^
+||*.tracking.mi.com^ 
+||*.sdkconfig.ad.xiaomi.com^ 
+||*.api.ad.xiaomi.com^
